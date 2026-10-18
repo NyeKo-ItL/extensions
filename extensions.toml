@@ -6273,6 +6273,10 @@ version = "0.1.0"
 submodule = "extensions/xml"
 version = "0.1.1"
 
+[xml-tools]
+submodule = "extensions/xml-tools"
+version = "0.16.2"
+
 [xquery]
 submodule = "extensions/xquery"
 version = "0.0.1"

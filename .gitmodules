@@ -6134,6 +6134,10 @@
 	path = extensions/xml
 	url = https://github.com/sweetppro/zed-xml.git
 
+[submodule "extensions/xml-tools"]
+	path = extensions/xml-tools
+	url = https://github.com/NyeKo-ItL/zed-xml.git
+
 [submodule "extensions/xquery"]
 	path = extensions/xquery
 	url = https://github.com/lorcroce/zed-xquery.git
